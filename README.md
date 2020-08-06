@@ -9,7 +9,7 @@ _Declarative Programming Paradigm_
            = 2x + 1
 ```  
             
-* First-class functions is treated as a variable.
+* First-class function is treated as a variable.
 * Pure functions is a function that works just with its inputs and doesn't affect the parameters.
 * Recursive functions is a function that calls itself during its execution.
 * Anonymous function is a function definition that is not bound to an entity.
